@@ -1,5 +1,5 @@
 # MusicControlsCapuchin
-forked from @the-graze
+forked from @The-Graze
 thanks for letting me make this!
 
 how to use:
